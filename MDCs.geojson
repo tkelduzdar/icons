@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "MDCs",
+"crs": { "type": "name", "properties": { "name": "MDCs" } },
+"features": [
+{ "type": "Feature", "properties": { "Title": "RDC_RC_Swansea", "Description": "RDC_RC_Swansea", "markercolor": "#011A27", "ycoord": 41.7704849, "xcoord": -71.2619247 }, "geometry": { "type": "Point", "coordinates": [ -71.2619247, 41.7704849 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_ADVANCE", "Description": "MDC_ADVANCE", "markercolor": "#011A27", "ycoord": 35.933303833007812, "xcoord": -80.439643859863281 }, "geometry": { "type": "Point", "coordinates": [ -80.439643859863281, 35.933303833007812 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_ARCADIA", "Description": "MDC_ARCADIA", "markercolor": "#011A27", "ycoord": 44.238765716552734, "xcoord": -91.438430786132812 }, "geometry": { "type": "Point", "coordinates": [ -91.438430786132812, 44.238765716552734 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_ECRU", "Description": "MDC_ECRU", "markercolor": "#011A27", "ycoord": 34.336631774902344, "xcoord": -89.063377380371094 }, "geometry": { "type": "Point", "coordinates": [ -89.063377380371094, 34.336631774902344 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_LEESPORT", "Description": "MDC_LEESPORT", "markercolor": "#011A27", "ycoord": 40.416580200195312, "xcoord": -75.993598937988281 }, "geometry": { "type": "Point", "coordinates": [ -75.993598937988281, 40.416580200195312 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_MESQUITE", "Description": "MDC_MESQUITE", "markercolor": "#011A27", "ycoord": 32.780414581298828, "xcoord": -96.606803894042969 }, "geometry": { "type": "Point", "coordinates": [ -96.606803894042969, 32.780414581298828 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_REDLANDS", "Description": "MDC_REDLANDS", "markercolor": "#011A27", "ycoord": 34.06732177734375, "xcoord": -117.18899536132812 }, "geometry": { "type": "Point", "coordinates": [ -117.188995361328125, 34.06732177734375 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_STATESVILLE", "Description": "MDC_STATESVILLE", "markercolor": "#011A27", "ycoord": 35.784820556640625, "xcoord": -80.886260986328125 }, "geometry": { "type": "Point", "coordinates": [ -80.886260986328125, 35.784820556640625 ] } },
+{ "type": "Feature", "properties": { "Title": "MDC_TACOMA", "Description": "MDC_TACOMA", "markercolor": "#011A27", "ycoord": 47.261798858642578, "xcoord": -122.44317626953125 }, "geometry": { "type": "Point", "coordinates": [ -122.44317626953125, 47.261798858642578 ] } }
+]
+}
